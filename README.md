@@ -44,7 +44,7 @@ The performance of the DFT algorithm was measured in terms of:
 ### Conclusion
 The parallelization of the DFT algorithm using OpenMP resulted in substantial performance gains, especially when vectorization, multi-threading, and architecture-specific optimizations were employed. The optimal configuration was found using 32/64 threads and higher optimization levels.
 
-For more details on the performance analysis, graphs, and implementation specifics, please refer to the full report available in this repository. Report : [Report Link]( ... )
+For more details on the performance analysis, graphs, and implementation specifics, please refer to the full report available in this repository. Report : [Report Link](HPC_DFT.pdf)
 
 ## Authors
 - [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
